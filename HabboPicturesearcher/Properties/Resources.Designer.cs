@@ -63,6 +63,16 @@ namespace HabboPicturesearcher.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ahshasdfhasdf {
+            get {
+                object obj = ResourceManager.GetObject("ahshasdfhasdf", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap l0ld0ngs {
             get {
                 object obj = ResourceManager.GetObject("l0ld0ngs", resourceCulture);
